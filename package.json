@@ -1,0 +1,11 @@
+{
+  "name": "TheOfflineProject",
+  "version": "1.0.0",
+  "description": "Aise hi",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^2.34.0",
+    "serverless-offline": "^6.9.0"
+  }
+}
